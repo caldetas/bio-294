@@ -1,0 +1,15 @@
+##gff-version 3
+###
+Bd1	Bdistachyon_314_v3.0.fa	gene	240663	245012	.	-	.	ID=Bradi1g00332.1.v3.1;Name=Bradi1g00332.1.v3.1;DE=NULL
+Bd1	Bdistachyon_314_v3.0.fa	mRNA	240663	245012	.	-	.	ID=Bradi1g00332.1.v3.1.mrna1;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1
+Bd1	Bdistachyon_314_v3.0.fa	exon	244937	245012	100	-	.	ID=Bradi1g00332.1.v3.1.mrna1.exon1;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 1 76 +
+Bd1	Bdistachyon_314_v3.0.fa	exon	244259	244358	100	-	.	ID=Bradi1g00332.1.v3.1.mrna1.exon2;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 77 176 +
+Bd1	Bdistachyon_314_v3.0.fa	exon	242048	242168	100	-	.	ID=Bradi1g00332.1.v3.1.mrna1.exon3;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 177 297 +
+Bd1	Bdistachyon_314_v3.0.fa	exon	241312	241463	100	-	.	ID=Bradi1g00332.1.v3.1.mrna1.exon4;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 298 449 +
+Bd1	Bdistachyon_314_v3.0.fa	exon	240663	241095	100	-	.	ID=Bradi1g00332.1.v3.1.mrna1.exon5;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 450 882 +
+Bd1	Bdistachyon_314_v3.0.fa	CDS	244937	245012	100	-	0	ID=Bradi1g00332.1.v3.1.mrna1.cds1;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 1 76 +
+Bd1	Bdistachyon_314_v3.0.fa	CDS	244259	244358	100	-	2	ID=Bradi1g00332.1.v3.1.mrna1.cds2;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 77 176 +
+Bd1	Bdistachyon_314_v3.0.fa	CDS	242048	242168	100	-	1	ID=Bradi1g00332.1.v3.1.mrna1.cds3;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 177 297 +
+Bd1	Bdistachyon_314_v3.0.fa	CDS	241312	241463	100	-	0	ID=Bradi1g00332.1.v3.1.mrna1.cds4;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 298 449 +
+Bd1	Bdistachyon_314_v3.0.fa	CDS	240663	241095	100	-	1	ID=Bradi1g00332.1.v3.1.mrna1.cds5;Name=Bradi1g00332.1.v3.1;Parent=Bradi1g00332.1.v3.1.mrna1;Target=Bradi1g00332.1.v3.1 450 882 +
+

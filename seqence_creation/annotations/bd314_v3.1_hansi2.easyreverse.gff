@@ -1,0 +1,7 @@
+##gff-version 3
+###
+Bd1	Bdistachyon_314_v3.0.fa	gene	55319	56140	.	+	.	ID=Bradi1g00219.1.v3.1;Name=Bradi1g00219.1.v3.1;DE=NULL
+Bd1	Bdistachyon_314_v3.0.fa	mRNA	55319	56140	.	+	.	ID=Bradi1g00219.1.v3.1.mrna1;Name=Bradi1g00219.1.v3.1;Parent=Bradi1g00219.1.v3.1
+Bd1	Bdistachyon_314_v3.0.fa	exon	55319	56140	100	+	.	ID=Bradi1g00219.1.v3.1.mrna1.exon1;Name=Bradi1g00219.1.v3.1;Parent=Bradi1g00219.1.v3.1.mrna1;Target=Bradi1g00219.1.v3.1 1 822 +
+Bd1	Bdistachyon_314_v3.0.fa	CDS	55319	56140	100	+	0	ID=Bradi1g00219.1.v3.1.mrna1.cds1;Name=Bradi1g00219.1.v3.1;Parent=Bradi1g00219.1.v3.1.mrna1;Target=Bradi1g00219.1.v3.1 1 822 +
+

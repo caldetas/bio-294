@@ -4,10 +4,12 @@
 You can get anaconda from here:   
 https://docs.conda.io/en/latest/miniconda.html   
 ### Install git
+
 ```
 sudo apt install git-all
 ```
 ### Install github repository bio-294
+
 ```
 git clone https://github.com/caldetas/bio-294.git   
 cd bio-294
@@ -29,4 +31,5 @@ conda activate bio294
 hello
 ```
 
-
+---
+https://www.geeksforgeeks.org/how-to-create-dynamic-autocomplete-search-using-bootstrap-typeahead/
