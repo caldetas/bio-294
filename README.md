@@ -49,8 +49,15 @@ for line in proc.stdout:
 # send command to shell and read output
 import subprocess
 vcf = 'filename'
-            #get the samplenames and positions in vcf
-            proc = subprocess.Popen(f'bcftools view {vcf}', shell=True, stdout=subprocess.PIPE, preexec_fn=os.setsid)
+#get the samplenames and positions in vcf
+ proc = subprocess.Popen('bcftools view {}'.format(data.settings['vcf']), shell=True, stdout=subprocess.PIPE, preexec_fn=os.setsid)
+        
+            for line in proc.stdout:
+                line = str(line.rstrip())[2:-1].split(sep='\\t')
+                if line[0] == '#CHROM':
+                    lyst_samples = line[9:]
+                    print('samples =', (lyst_samples))
+                    os.killpg(os.getpgid(proc.pid), signal.SIGTERM)
 
 ```
 ---
