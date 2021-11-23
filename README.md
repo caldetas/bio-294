@@ -22,15 +22,17 @@ The dependencies.yml file creates an environment with some programs and packages
 conda env create --file dependencies.yml
 conda activate bio294
 ```
-
    
-```hello```
+      
+      
+
 ---
 ## Create sequences from VCF
 Download the vcf and the index.
 ```
 wget 'http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz/download?path=%2F&files=Bdis333_5_1_21.renamed.SNPs.vcf.bgz.tbi'
 wget 'http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz/download?path=%2F&files=Bdis333_5_1_21.renamed.SNPs.vcf.bgz'
+http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz
 ```
 
 ---
