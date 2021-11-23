@@ -34,6 +34,24 @@ wget 'http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz/download?path=%2F&files=Bdi
 wget 'http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz/download?path=%2F&files=Bdis333_5_1_21.renamed.SNPs.vcf.bgz'
 http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz
 ```
+``` 
+# send command to shell and read output
+import subprocess
 
+proc = subprocess.Popen('ls', shell=True, stdout=subprocess.PIPE)
+
+for line in proc.stdout:
+    line = str(line.rstrip())[2:-1].encode().decode('unicode_escape').split(sep='\t')
+    if True == True:
+        print('\t'.join(line))
+```
+``` 
+# send command to shell and read output
+import subprocess
+vcf = 'filename'
+            #get the samplenames and positions in vcf
+            proc = subprocess.Popen(f'bcftools view {vcf}', shell=True, stdout=subprocess.PIPE, preexec_fn=os.setsid)
+
+```
 ---
 https://www.geeksforgeeks.org/how-to-create-dynamic-autocomplete-search-using-bootstrap-typeahead/
