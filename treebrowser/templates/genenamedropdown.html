@@ -28,16 +28,16 @@
 </head>
 
 <body style="text-align: center">
-	<div>
-    	<form action="#", method="post">
-    		<b><p>Enter Genename:</p></b>
-
-    		<p><input type="text" 
-        		class="typeahead"
-    			data-provide="typeahead"
-    			placeholder="Genename " /></p>
-            <p><input type="submit" value="submit"</p>
-	</div>
+    <div>
+    <form action="#", method="post">
+        <b><p>Suggest the states of India</p></b>
+  
+        <input type="text" class="typeahead" name="nm"
+            data-provide="typeahead" 
+            placeholder="Enter name of states of India " />
+            
+         <p><input type="submit" value="submit"</p>
+    </div>
 
 	<script>
 	
@@ -45,7 +45,7 @@
 		// with a typeahead
 		var $input = $(".typeahead");
 		$input.typeahead({
-			source: const JSON.parse("{{ list1 | tojson }}"),
+			source:['Bradi1g38650', 'Bradi1g18400', 'Bradi2g59497', 'Bradi4g17460', 'Bradi5g18180', 'Bradi3g09670'] ,
 			autoSelect: true,
 		});
 

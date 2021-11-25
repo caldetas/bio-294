@@ -28,7 +28,7 @@ app = Flask(__name__)
 @app.route('/', methods=["POST", "GET"])
 def home():
     #here you can do something before rendering
-    title = 'grayscale'
+    title = 'GENOMEBROWSER'
     return render_template('index.html', bigtitle=title)
 
 
@@ -50,8 +50,8 @@ def get_all_genenames():
     #get the name of the gene out of the file names (get rid of tree. and .png)    
     genenames=[]
     for filename in genefiles:
-        gene= filename.split(".")[1]
-        genenames.append(gene)
+        genex= filename.split(".")[1]
+        genenames.append(genex)
         
         
     return genenames
@@ -66,14 +66,14 @@ def Gene_name(Gene_name):
     if request.method == "POST":
         gene = request.form["nm"]
  
-        return redirect(url_for("gene", Gene = gene))
+        return redirect(url_for("gene_phylo", Gene = gene))
     else:
-        return render_template("genenamedropdown.html", list1 = json.dumps(Gene_name))
+        return render_template("genenamedropdown.html")
 
-
+#, list1 = json.dumps(Gene_name)
 #redirect to requested site
-@app.route("/<Gene>")
-def gene(Gene):
+@app.route("/image/<Gene>")
+def gene_phylo(Gene):
 
    return render_template('gene.html', name = Gene)
 
