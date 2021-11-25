@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+
+
+{% block content %}
+    <h1>Phylogeny of {{name}}</h1>
+    <div class="text-center">
+        <img class="img-fluid" src="{{ url_for('static', filename='/treefiles/tree.'+name+'.png') }}" alt="..." />
+    </div>
+
+{% endblock %}
+
