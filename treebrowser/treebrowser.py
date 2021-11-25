@@ -6,7 +6,7 @@ Created on Fri Nov 19 11:52:37 2021
 @author: hannes
 """
 
-from flask import Flask, redirect, url_for, render_template, request, session, flash
+from flask import Flask, redirect, url_for, render_template, request, session, flash, json
 from datetime import timedelta
 import pandas as pd
 import time
@@ -31,6 +31,55 @@ def home():
     title = 'grayscale'
     return render_template('index.html', bigtitle=title)
 
+
+#function to get the genes present in folder
+def get_all_genenames():
+    import os
+    
+    #get all the files ending with .png from folder
+    genefiles=[]
+
+    for files in os.walk("static/treefiles"):
+        print(files)
+        for file in files[2]:
+        
+            name=str(file)
+            if name.endswith("png"):
+                genefiles.append(name)
+   
+    #get the name of the gene out of the file names (get rid of tree. and .png)    
+    genenames=[]
+    for filename in genefiles:
+        gene= filename.split(".")[1]
+        genenames.append(gene)
+        
+        
+    return genenames
+
+#store the genenames in a variable
+Gene_name = get_all_genenames()
+
+
+#define gene input square and redirect to its url
+@app.route("/<Gene_name>", methods =["POST", "GET"])
+def Gene_name(Gene_name):
+    if request.method == "POST":
+        gene = request.form["nm"]
+ 
+        return redirect(url_for("gene", Gene = gene))
+    else:
+        return render_template("genenamedropdown.html", list1 = json.dumps(Gene_name))
+
+
+#redirect to requested site
+@app.route("/<Gene>")
+def gene(Gene):
+
+   return render_template('gene.html', name = Gene)
+
 #run the app
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
+    
+    
+
