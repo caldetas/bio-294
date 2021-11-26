@@ -28,15 +28,25 @@
 </head>
 
 <body style="text-align: center">
-    <div>
-    <form action="#", method="post">
-        <b><p>Suggest the states of India</p></b>
+     <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5">
+            <div class="col-md-10 col-lg-8 mx-auto text-center">
+                <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
+                <h2 class="text-black mb-5">Enter the genename:</h2>
+    
+                <form action="#", method="post">
+                <div class="row input-group-newsletter">
+                                
   
-        <input type="text" class="typeahead" name="nm"
-            data-provide="typeahead" 
-            placeholder="Enter name of states of India " />
-            
-         <p><input type="submit" value="submit"</p>
+                <input type="text" class="typeahead" name="nm"
+                    data-provide="typeahead" 
+                    placeholder="Your Gene.. " />
+                <div class="col-auto"><button class="btn btn-primary disabled" id="submitButton" type="submit">Go!</button></div>
+                
+                
+
+            </div>
+        </div>
     </div>
 
 	<script>
@@ -66,4 +76,3 @@
 </body>
 
 </html>
-

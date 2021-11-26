@@ -29,7 +29,10 @@ app = Flask(__name__)
 def home():
     #here you can do something before rendering
     title = 'GENOMEBROWSER'
-    return render_template('index.html', bigtitle=title)
+    if request.method =="POST":
+        return redirect(url_for("Gene_name"))
+    else:
+        return render_template('index.html', bigtitle=title)
 
 
 #function to get the genes present in folder
