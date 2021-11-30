@@ -45,7 +45,7 @@
 		// with a typeahead
 		var $input = $(".typeahead");
 		$input.typeahead({
-			source: {{lyst|tojson|safe}},
+			source:['Bradi1g38650', 'Bradi1g18400', 'Bradi2g59497', 'Bradi4g17460', 'Bradi5g18180', 'Bradi3g09670'] ,
 			autoSelect: true,
 		});
 

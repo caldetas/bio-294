@@ -57,7 +57,7 @@ def get_all_genenames():
     return genenames
 
 #store the genenames in a variable
-Gene_name = get_all_genenames()
+lyst_genenames = get_all_genenames()
 
 
 #define gene input square and redirect to its url
@@ -65,10 +65,10 @@ Gene_name = get_all_genenames()
 def Gene_name(Gene_name):
     if request.method == "POST":
         gene = request.form["nm"]
- 
+        
         return redirect(url_for("gene_phylo", Gene = gene))
     else:
-        return render_template("genenamedropdown.html")
+        return render_template("genenamedropdown.html", lyst = lyst_genenames)
 
 #, list1 = json.dumps(Gene_name)
 #redirect to requested site
