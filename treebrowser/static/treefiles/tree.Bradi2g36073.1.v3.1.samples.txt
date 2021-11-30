@@ -1,0 +1,36 @@
+number of samples not displayed:
+
+ABR9 3
+Bd1-1 1
+1c_25_14 76
+Luc1 0
+2_1_7 3
+3_38_12 12
+2_5_10 2
+Spa-Sou-AB3_3 0
+3_55_27 2
+Jer1 1
+3_54_3 52
+Spa-Nor-S16D 0
+3_41_1 4
+2_14_15 17
+1a_29_12 76
+
+
+index of sequences:
+
+ABR9 Veg2,Veg3,Veg15
+Bd1-1 BdTR7a
+1c_25_14 1c_26_3,1c_26_4,1c_27_15,1c_27_8,1c_28_1,1c_35_1,1c_35_7,2_8_1,2_8_3,2_9_1,2_9_9,3_40_4,4_47_25,ABR2,ABR3,ABR4,ABR5,Adi-12,Arn1,BdTR8i,BdTR9K,Chi3,Cm10,Cm12,Cm13,Cm4,MonSV15,MonSV3,Siat5,MonSV5,Gj1,Ko2,Ko3,Bi1,Bi2,Foz1,Ges1,Ges26,Ges30,Lam13,Leo2,Mca26,Msa16,Msa27,Msa9,Mur1,RON2,Ren5,S8iiC,Ita-Sic-CSR6,Ita-Sic-CSR7,Spa-Nor-S19A,Spa-Nor-S22C,Spa-Sou-HU3_4,Spa-Sou-J4_3,Spa-Sou-Z3_6,Tek-9,BdTR9M,San11,Sap44,Sap47,Sap49,Sap57,Sap59,Sap61,Sap64,Sap68,Sig2,Spm16,Tek-2,Tek-4,Tso17,Tso18,Tso8,Uni2,Vif1
+Luc1 
+2_1_7 3_38_19,3_55_13,Cm18
+3_38_12 Cm2,Cm3,Veg5,Siat7,Siat8,Lb16,Lb18,Lb21,Alb-AL2D,San12,San25,Sul2
+2_5_10 Meg6,Ram6
+Spa-Sou-AB3_3 
+3_55_27 Sap31,Sul5
+Jer1 Tso22
+3_54_3 Chi2,MonSV1,Vyt1,Vyt2,Vyt3,Meg7,Veg7,Veg9,Veg10,Veg11,Siat2,Siat9,MonSV6,Myt1,Myt2,Myt3,Myt4,Myt5,Gj2,Gj3,Gj4,MonSV7,MonSV8,MonSV9,Ges19,Ges5,Lb3,Leo7,Leo8,Mca10,Mca12,Mca16,Mca19,Mca23,Mcp2,Mcp7,Mon3,Ren14,Ren19,Ren22,Ren4,Ita-Sic-BNT4,Spa-Sou-AB1_4,Spa-Nor-S6D,Ita-Sic-BNT8,San24,Sap40,Sap58,Sap66,Tar1,Tar12,Tso3
+Spa-Nor-S16D 
+3_41_1 3_41_3,Geo-G33i6,Geo-G30i2,Geo-G33i4
+2_14_15 2_14_20,2_20_16,ABR7,Bd30-1,MonSV10,MonSV11,MonSV12,MonSV13,MonSV14,Syv1,Syv3,Spa-Nor-S6E,Spa-Nor-S6B,Spa-Sou-Sg2_1,Spa-SouGR3_6,San26,Shf16
+1a_29_12 1a_29_14,1a_29_27,1a_30_2,1a_30_24,1a_30_26,1a_30_4,1a_31_2,1a_31_6,1a_32_10,1a_32_12,1a_32_5,1c_25_7,1c_28_2,1c_34_1,1c_34_25,ABR6,Adi-10,Bd18-1,Bd2-3,Bd21,Bd21-3,Bd3-1,BdTR10C,BdTR11A,BdTR11G,BdTR11I,BdTR12c,BdTR13C,BdTR13a,BdTR1i,BdTR2B,BdTR2G,BdTR5I,Bis-1,Cro24,MonSV2,Meg2,Veg8,MonSV4,Siat4,Siat10,Gaz-8,Kah-1,Kah-5,Koz-1,Lam6,Mig3,Per1,ABR8,Alb-AL1A,Spa-Nor-S11D,Spa-Nor-S12B,Spa-Nor-S11A,Spa-Nor-S11B,Spa-Nor-S22B,Spa-Sou-GR6_4,Spa-Nor-S17D,Spa-Sou-CU1_6,Spa-Sou-J6_2,Adi-15,Adi-4,BdTR5A,Gaz-7,BdTR13N,Gaz-1,Kah-6,Koz-2,Koz-5,BdTR13B,BdTR11E,Adi-9,Gaz-2,BdTR12B,BdTR10D,Shf28,Shf8

@@ -1,0 +1,170 @@
+number of samples not displayed:
+
+1c_35_7 1
+Sap64 0
+Sap49 0
+Sap47 0
+Sap57 0
+Sap40 0
+Sap58 0
+Sap44 0
+San24 0
+Siat11 0
+Sap31 0
+Sap61 0
+2_1_7 0
+Geo-G33i6 0
+Geo-G33i4 0
+3_54_3 0
+Bd29-1 0
+4_52_15 0
+1c_25_15 0
+Lb1 0
+Lb7 0
+Ges5 0
+Lb11 0
+Sap66 0
+Sap68 0
+Gj2 0
+4_36_22 1
+Spa-Sou-J4_3 0
+4_47_25 0
+ABR5 0
+Luc1 0
+RON2 0
+2_9_9 0
+Shf23 1
+Cm7 0
+4_51_22 0
+1a_30_24 0
+1a_32_12 0
+1a_30_26 0
+Leo2 0
+BdTR3C 0
+BdTR13C 1
+BdTR13a 0
+BdTR13N 0
+BdTR13B 0
+Tso3 0
+3_55_13 0
+Ges30 0
+Cm3 0
+Spm16 0
+Cro24 0
+Shf16 0
+Mig3 1
+Tso22 0
+Tso18 0
+Tso8 0
+Per1 0
+Vif1 0
+Syv3 0
+MonSV15 0
+MonSV7 0
+MonSV8 0
+MonSV9 0
+Adi-12 0
+Bd18-1 0
+Kah-5 0
+1a_29_14 1
+1a_29_12 2
+2_5_21 0
+Bd21 3
+Siat14 0
+Spa-Nor-S11B 0
+ABR9 0
+Mca12 1
+Mca18 0
+San25 0
+Sig2 0
+Foz1 0
+Lb8 0
+Tek-2 0
+ABR6 0
+Bd21-3 1
+
+
+index of sequences:
+
+1c_35_7 4_45_19
+Sap64 
+Sap49 
+Sap47 
+Sap57 
+Sap40 
+Sap58 
+Sap44 
+San24 
+Siat11 
+Sap31 
+Sap61 
+2_1_7 
+Geo-G33i6 
+Geo-G33i4 
+3_54_3 
+Bd29-1 
+4_52_15 
+1c_25_15 
+Lb1 
+Lb7 
+Ges5 
+Lb11 
+Sap66 
+Sap68 
+Gj2 
+4_36_22 4_52_6
+Spa-Sou-J4_3 
+4_47_25 
+ABR5 
+Luc1 
+RON2 
+2_9_9 
+Shf23 Tso17
+Cm7 
+4_51_22 
+1a_30_24 
+1a_32_12 
+1a_30_26 
+Leo2 
+BdTR3C 
+BdTR13C Bis-1
+BdTR13a 
+BdTR13N 
+BdTR13B 
+Tso3 
+3_55_13 
+Ges30 
+Cm3 
+Spm16 
+Cro24 
+Shf16 
+Mig3 S8iiC
+Tso22 
+Tso18 
+Tso8 
+Per1 
+Vif1 
+Syv3 
+MonSV15 
+MonSV7 
+MonSV8 
+MonSV9 
+Adi-12 
+Bd18-1 
+Kah-5 
+1a_29_14 1a_32_5
+1a_29_12 1a_31_2,1a_31_6
+2_5_21 
+Bd21 ABR8,Arm-Arm-3i,Geo-G32i2
+Siat14 
+Spa-Nor-S11B 
+ABR9 
+Mca12 Mca19
+Mca18 
+San25 
+Sig2 
+Foz1 
+Lb8 
+Tek-2 
+ABR6 
+Bd21-3 Bd3-1

@@ -1,0 +1,50 @@
+number of samples not displayed:
+
+1a_29_12 8
+1a_31_6 9
+2_9_9 6
+1a_30_2 5
+1a_32_10 11
+Mig3 16
+Tso22 0
+Per1 4
+2_14_15 1
+1a_29_27 39
+2_20_16 8
+Geo-G32i2 0
+1a_30_24 6
+1a_32_12 43
+Uni2 0
+1c_26_3 50
+MonSV2 3
+ABR6 0
+Spa-Nor-S6D 0
+MonSV1 8
+4_47_25 5
+Spa-Sou-AB3_3 0
+
+
+index of sequences:
+
+1a_29_12 1a_29_14,1a_31_2,Bd18-1,BdTR5I,Kah-1,Kah-5,BdTR5A,Kah-6
+1a_31_6 1a_32_5,Adi-10,Adi-12,Adi-2,BdTR12c,BdTR9K,Adi-15,BdTR9M,BdTR12B
+2_9_9 3_38_12,3_38_19,3_55_13,4_49_26,Syv3,Mca26
+1a_30_2 1a_30_4,1c_25_7,Arm-Arm-2B,Gaz-7,Gaz-2
+1a_32_10 1c_26_4,Bd21-3,Bd3-1,MonSV10,MonSV11,MonSV12,MonSV13,MonSV14,Geo-G31i4,Spa-SouGR3_6,Shf28
+Mig3 S8iiC,Spa-Nor-S11D,Spa-Nor-S12B,Spa-Nor-S11A,Spa-Nor-S11B,Spa-Sou-AB1_4,Spa-Nor-S17D,Spa-Nor-S22C,Spa-Sou-HU3_4,Spa-Sou-J6_2,Spa-Sou-Sg2_1,Shf23,Tso17,Tso18,Tso3,Tso8
+Tso22 
+Per1 Spa-Sou-CU_5,Spa-Nor-S22B,Shf8,Vif1
+2_14_15 2_14_20
+1a_29_27 1c_25_14,1c_27_15,1c_27_8,1c_28_2,2_8_1,2_8_3,3_40_4,3_41_1,4_49_22,Bd2-3,BdTR11A,BdTR11G,BdTR11I,BdTR7a,Meg7,Foz1,Ges30,Lb13,Lb23,Luc1,Mca10,Mca12,Mca16,Mca18,Mca19,Mca23,Msa27,RON2,Ita-Sic-CSR6,Ita-Sic-LPA3,Ita-Sic-CSR7,Ita-Sic-SLZ2,Tek-9,BdTR11E,Ukr-Nvk1,Ita-Sic-BNT3,San25,Sap59,Sig2
+2_20_16 ABR9,Bd21,Cm7,Msa9,ABR8,Arm-Arm-3i,Geo-G34i2,Geo-G34i6
+Geo-G32i2 
+1a_30_24 1a_30_26,BdTR13C,BdTR13a,Bis-1,BdTR13N,BdTR13B
+1a_32_12 1c_34_1,1c_34_25,2_5_21,2_9_1,3_54_19,ABR4,BdTR3C,Chi2,Cm12,Cm13,Cm3,Cm4,Cro24,Vyt1,Vyt2,Vyt3,Ges1,Ges26,Jer1,Koz-1,Lb1,Lb11,Lb16,Lb18,Lb21,Lb3,Lb7,Lb8,Leo2,Leo7,Mcp2,Mcp7,Mur1,Ram6,Ren19,Koz-2,Koz-5,BdTR3M,Adi-9,Shf16,Spm16,Tar1,Tar12
+Uni2 
+1c_26_3 1c_28_1,2_14_13,2_14_25,2_5_10,3_41_3,3_42_11,3_42_19,3_55_27,4_36_22,4_47_16,4_52_6,Bd1-1,Cb23,Cm16,MonSV15,Meg1,Meg2,Meg3,Meg4,Meg5,Meg6,Veg1,Veg11,Siat2,Syv1,Ko2,MonSV7,Ko3,Bi1,Bi2,MonSV9,Ges19,Ges5,Koz-3,Ren14,Ren22,Ren4,Ren5,Alb-AL2E,Alb-AL2F,Arm-Arm-3A,Spa-Sou-J4_3,Adi-4,Gaz-1,Arm-Arm-3G,San12,Sul2,Sul4,Sul5,Tek-4
+MonSV2 MonSV3,MonSV4,Spa-GU5_1
+ABR6 
+Spa-Nor-S6D 
+MonSV1 MonSV6,Lam13,Lam6,Spa-Nor-S16D,Spa-Nor-S6E,Spa-Nor-S6B,Spa-Sou-CU1_6,BdTR10D
+4_47_25 Cm18,Gj1,Ita-Sic-BNT4,Spa-Sou-Z3_6,San11
+Spa-Sou-AB3_3 

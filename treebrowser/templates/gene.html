@@ -3,10 +3,29 @@
 
 
 {% block content %}
-    <h1>Phylogeny of {{name}}</h1>
-    <div class="text-center">
-        <img class="img-fluid" src="{{ url_for('static', filename='treefiles/tree.'+name+'.png') }}" alt="..." />
-    </div>
+        <!-- Masthead-->
+        <header class="masthead">
+            <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+                <div class="d-flex justify-content-center">
+                    <div class="text-start">
+                        <br>
+                        <br>
+                        <h4 class="text-white-50 mx-auto mt-2 mb-4">Phylogeny of {{short}}</h4>                
+                        <div class="text-center">
+                            <br>
+                            <img class="img-fluid" src="{{ url_for('static', filename='treefiles/'+name) }}" alt="..." />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+      
+        <!-- Footer-->
+        <footer class="footer bg-black small text-center text-white-50"><div class="container px-4 px-lg-5">BIO294 Project - UZH</div></footer>
+
 
 {% endblock %}
 
+
+                

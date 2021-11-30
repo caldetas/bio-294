@@ -1,0 +1,84 @@
+number of samples not displayed:
+
+3_40_4 27
+Sap44 0
+Alb-AL1A 0
+MonSV5 0
+Cm2 1
+ABR9 0
+2_5_21 1
+Sap57 0
+1c_25_14 22
+2_14_13 1
+2_5_10 0
+Bd29-1 1
+Ren19 0
+3_42_11 0
+Sap47 2
+3_41_3 30
+Ita-Sic-BNT4 0
+Meg1 0
+Meg3 0
+Adi-12 0
+1c_35_1 9
+2_1_7 0
+1a_32_5 5
+Spa-Sou-CU1_6 0
+Uni2 0
+ABR4 5
+Ren14 5
+Gaz-8 0
+Cro24 6
+Ko2 1
+Msa11 5
+Cb23 0
+2_8_1 3
+Meg7 7
+Gj1 0
+1a_30_24 1
+1a_31_2 54
+Vyt1 2
+BdTR5I 0
+
+
+index of sequences:
+
+3_40_4 4_47_16,Chi2,Cm7,Meg4,Meg5,Lb1,Lb11,Lb13,Lb16,Lb18,Lb23,Lb3,Lb7,Lb8,Leo2,Mca26,Mcp2,Mcp7,Msa27,Ram6,Ren5,Ita-Sic-SLZ2,Ita-Sic-BNT8,San26,Sap40,Tar1,Tar12
+Sap44 
+Alb-AL1A 
+MonSV5 
+Cm2 Cm4
+ABR9 
+2_5_21 Sap61
+Sap57 
+1c_25_14 1c_25_15,3_38_19,3_41_1,3_42_19,3_54_19,3_54_3,3_55_27,4_36_22,4_47_25,4_52_15,4_52_6,Bd1-1,BdTR8i,Siat9,Ges1,Ges19,Ges30,Ges5,Ren4,Tek-9,Tek-2,Tek-4
+2_14_13 2_14_25
+2_5_10 
+Bd29-1 Ukr-Nvk1
+Ren19 
+3_42_11 
+Sap47 Sap49,Sap59
+3_41_3 3_55_13,4_51_22,Adi-2,Bd21,Bd3-1,BdTR12c,BdTR9K,Cm16,Cm18,Cm3,Ges26,Lb21,Leo7,Leo8,Mca10,ABR8,Arm-Arm-3i,Geo-G34i2,Geo-G31i4,Arm-Arm-2B,Arm-Arm-3A,Geo-G34i6,Koz-5,BdTR9M,BdTR12B,Arm-Arm-3G,Geo-G32i2,Sap31,Sul2,Sul5
+Ita-Sic-BNT4 
+Meg1 
+Meg3 
+Adi-12 
+1c_35_1 1c_35_7,4_45_19,Arn1,Mon3,Spa-Sou-GR6_4,Spa-Nor-S6D,San24,Sap66,Sap68
+2_1_7 
+1a_32_5 BdTR11A,BdTR11G,BdTR11I,Adi-15,BdTR11E
+Spa-Sou-CU1_6 
+Uni2 
+ABR4 ABR7,MonSV15,Spa-Nor-S11A,Spa-Nor-S11B,Spa-Sou-J4_3
+Ren14 Ren22,Spa-Nor-S16D,Spa-Sou-J6_2,Sap58,Sap64
+Gaz-8 
+Cro24 Gj2,Gj3,Gj4,San12,San25,Spm16
+Ko2 Bi1
+Msa11 Msa6,Msa9,Ita-Sic-CSR6,Ita-Sic-LPA3,Ita-Sic-CSR7
+Cb23 
+2_8_1 2_8_3,2_9_1,2_9_9
+Meg7 Mca12,Mca16,Mca18,Mca19,Mca23,Msa16,San11
+Gj1 
+1a_30_24 1a_30_26
+1a_31_2 3_38_12,4_49_22,4_49_26,Cm10,Cm12,Cm13,Veg1,Veg2,Veg3,Veg4,Veg5,Veg6,Veg7,Veg8,Veg9,Veg10,Veg11,Veg12,Veg13,Veg14,Veg15,Siat1,Siat2,Siat3,Siat4,Siat5,Siat6,Siat7,Siat8,Siat10,Siat11,Siat12,Siat13,Siat14,Siat15,Syv1,Syv2,Syv3,Myt1,Myt2,Myt3,Myt4,Myt5,Geo-G33i6,Alb-AL2E,Geo-G30i2,Geo-G33i4,Alb-AL2F,Alb-AL2D,BdTR5A,Gaz-7,Gaz-2,Ita-Sic-BNT3,Sul4
+Vyt1 Vyt2,Vyt3
+BdTR5I 

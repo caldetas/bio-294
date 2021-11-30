@@ -11562,7 +11562,18 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/dystachion_field_BW.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/dystachion_closeup_BW.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.masthead1 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11616,16 +11627,16 @@ body {
   padding: 10rem 0;
 }
 .projects-section .featured-text {
-  padding: 2rem;
+  padding: 5rem;
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
-    padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    padding: 0 0 0 4rem;
+    border-left: 2rem solid #64a19d;
   }
 }
 .projects-section .project-text {
-  padding: 3rem;
+  padding: 5rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {

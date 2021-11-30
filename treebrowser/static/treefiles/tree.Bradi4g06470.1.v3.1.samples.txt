@@ -1,0 +1,26 @@
+number of samples not displayed:
+
+1c_25_14 37
+4_51_22 0
+Mca12 1
+Ita-Sic-SLZ2 0
+4_52_6 29
+Cm3 0
+2_20_16 0
+3_38_19 2
+ABR6 0
+BdTR11A 0
+
+
+index of sequences:
+
+1c_25_14 1c_25_15,1c_35_1,1c_35_7,2_5_10,3_42_11,3_54_19,3_54_3,3_55_13,4_36_22,4_45_19,4_47_16,4_47_25,Vyt1,Vyt2,Vyt3,Meg7,Veg2,Veg3,Veg15,Siat14,Syv2,Mca16,Mca18,Mca23,Mca26,Msa11,Msa6,Msa9,Alb-AL1A,Alb-AL2D,Ita-Sic-LPA3,Ita-Sic-CSR7,Ita-Sic-BNT3,Sap31,Sap47,Sap49,Sap64
+4_51_22 
+Mca12 Mca19
+Ita-Sic-SLZ2 
+4_52_6 Chi3,Cm16,Cm2,Cm7,Veg5,Siat1,Siat7,Syv1,Ko2,Ko3,Bi1,Bi2,Ges26,Lb1,Lb13,Lb16,Lb3,Lb8,Leo2,Leo8,Mcp7,Ram6,Ren19,Alb-AL2E,Alb-AL2F,Sap40,Sul2,Tar1,Tar12
+Cm3 
+2_20_16 
+3_38_19 Bd21,ABR8
+ABR6 
+BdTR11A 

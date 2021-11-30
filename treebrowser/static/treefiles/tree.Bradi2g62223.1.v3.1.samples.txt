@@ -1,0 +1,116 @@
+number of samples not displayed:
+
+2_9_9 0
+BdTR7a 0
+ABR3 0
+Per1 0
+Arn1 2
+ABR7 0
+Ges26 3
+Ges19 0
+Sul5 0
+Bd1-1 0
+1c_35_1 0
+Sap49 0
+1c_35_7 2
+3_42_19 3
+Luc1 0
+3_38_19 17
+Ges5 0
+1a_29_14 9
+2_20_16 0
+ABR5 0
+Adi-10 0
+2_14_20 4
+Mca16 0
+BdTR10C 0
+BdTR1i 1
+2_8_3 3
+Adi-2 0
+BdTR13a 0
+1a_30_2 16
+BdTR2G 0
+2_1_7 0
+4_51_22 0
+Tso22 0
+1a_29_27 1
+Spm16 0
+1a_29_12 76
+ABR9 0
+Kah-1 0
+2_5_10 0
+Arm-Arm-3i 0
+2_9_1 0
+2_14_13 13
+Sul2 0
+Meg4 0
+Mcp7 0
+Ko2 1
+Ko3 0
+Lb1 9
+Lb23 1
+Meg7 4
+Gj3 0
+1c_25_15 19
+Ges30 1
+Mca26 2
+Chi2 2
+
+
+index of sequences:
+
+2_9_9 
+BdTR7a 
+ABR3 
+Per1 
+Arn1 Bd30-1,Mur1
+ABR7 
+Ges26 Ram6,Ren19,Ren22
+Ges19 
+Sul5 
+Bd1-1 
+1c_35_1 
+Sap49 
+1c_35_7 3_55_27,Sap40
+3_42_19 4_36_22,Sap47,Shf28
+Luc1 
+3_38_19 3_41_1,3_41_3,3_42_11,4_52_15,4_52_6,Bd29-1,Lb11,Lb13,Lb16,Lb18,Lb21,Lb7,Msa11,Msa9,Ren14,Sul4,Tso8
+Ges5 
+1a_29_14 4_45_19,ABR2,Mca18,Mca19,Msa16,Msa6,S8iiC,Tso17,Vif1
+2_20_16 
+ABR5 
+Adi-10 
+2_14_20 MonSV2,Mca12,Mca23,Uni2
+Mca16 
+BdTR10C 
+BdTR1i Bis-1
+2_8_3 BdTR12c,BdTR13C,Gaz-1
+Adi-2 
+BdTR13a 
+1a_30_2 1a_30_24,1a_30_26,1a_30_4,1a_31_2,1a_32_10,1a_32_12,1a_32_5,2_8_1,BdTR2B,Gaz-8,Gaz-7,BdTR13N,BdTR13B,Gaz-2,BdTR12B,BdTR10D
+BdTR2G 
+2_1_7 
+4_51_22 
+Tso22 
+1a_29_27 RON2
+Spm16 
+1a_29_12 1a_31_6,1c_25_14,1c_25_7,1c_26_3,1c_26_4,1c_27_15,1c_27_8,1c_28_1,1c_28_2,1c_34_1,1c_34_25,4_47_16,ABR6,Adi-12,Bd18-1,Bd2-3,Bd21,Bd21-3,Bd3-1,BdTR11A,BdTR11G,BdTR11I,BdTR3C,BdTR5I,BdTR9K,Cro24,MonSV1,MonSV3,Veg4,Veg12,Veg13,Veg14,Myt1,Myt2,Myt3,Myt4,Myt5,MonSV8,MonSV9,Foz1,Kah-5,Koz-1,Koz-3,Lam13,Mig3,ABR8,Geo-G34i2,Geo-G31i4,Arm-Arm-2B,Geo-G34i6,Ita-Sic-CSR7,Spa-Nor-S12B,Spa-Nor-S11A,Spa-Sou-CU_5,Spa-Nor-S11B,Spa-Sou-J4_3,Spa-Sou-J6_2,Spa-Sou-Z3_6,Spa-SouGR3_6,Adi-15,Adi-4,BdTR5A,Koz-2,Koz-5,BdTR9M,BdTR11E,BdTR3M,Adi-9,Geo-G32i2,Spa-GU5_1,Shf16,Shf23,Shf8,Sig2,Tso18,Tso3
+ABR9 
+Kah-1 
+2_5_10 
+Arm-Arm-3i 
+2_9_1 
+2_14_13 2_5_21,3_54_3,3_55_13,BdTR8i,Chi3,Cm13,Cm18,Cm2,Cm3,Cm4,Mon3,Spa-Nor-S6D,Tar1
+Sul2 
+Meg4 
+Mcp7 
+Ko2 Bi1
+Ko3 
+Lb1 Lb3,Lb8,Leo7,Leo8,Ren5,Sap31,Sap59,Sap66,Tek-4
+Lb23 Mcp2
+Meg7 Gj1,Gj2,Gj4,Bi2
+Gj3 
+1c_25_15 2_14_25,3_40_4,3_54_19,4_49_22,4_49_26,Cm10,Cm12,Cm7,Ges1,Leo2,Mca10,Ren4,San26,Sap44,Sap58,Sap61,Sap68,Tar12,Tek-2
+Ges30 Sap57
+Mca26 San24,Sap64
+Chi2 Cm16,Veg11

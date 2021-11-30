@@ -1,0 +1,66 @@
+number of samples not displayed:
+
+1a_29_12 27
+Alb-AL2D 0
+2_5_10 1
+BdTR7a 0
+2_5_21 4
+3_40_4 0
+Ren19 0
+Sul5 0
+2_14_13 59
+1a_32_5 24
+Adi-12 0
+Alb-AL2E 0
+Alb-AL2F 0
+1c_25_15 24
+Sap40 2
+Ita-Sic-BNT4 0
+Ges26 0
+Mig3 0
+Tso18 0
+1a_29_14 24
+1a_32_10 6
+ABR2 0
+Adi-2 0
+BdTR11A 1
+2_14_20 2
+2_20_16 2
+Spa-Sou-J4_3 1
+Cb23 31
+Msa6 1
+1c_25_7 3
+
+
+index of sequences:
+
+1a_29_12 1a_30_2,1a_30_4,1a_31_2,1c_25_14,2_8_1,2_8_3,3_38_19,3_41_1,3_41_3,3_42_11,3_54_19,3_55_13,4_36_22,4_52_15,BdTR12c,Cm2,Myt1,Myt2,Myt3,Myt4,Myt5,Mca10,Geo-G33i6,Geo-G33i4,Gaz-1,BdTR12B,Tek-4
+Alb-AL2D 
+2_5_10 Kah-5
+BdTR7a 
+2_5_21 Bd1-1,BdTR8i,MonSV5,Tek-2
+3_40_4 
+Ren19 
+Sul5 
+2_14_13 2_14_25,2_9_1,3_42_19,3_55_27,4_47_16,4_49_22,4_49_26,Arn1,Chi2,Chi3,Cm10,Cm12,Cm13,Cm16,Cm18,Cm3,Cm4,Cm7,Veg8,Siat2,Siat9,Siat11,Ges19,Ges30,Ges5,Lb1,Lb18,Lb21,Lb23,Lb3,Lb8,Leo2,Leo7,Leo8,Mca26,Mcp2,Mcp7,Mon3,Msa27,Ram6,Ren14,Ren22,Ren4,Ren5,Geo-G30i2,Ita-Sic-SLZ2,Spa-Sou-GR6_4,Spa-Nor-S6D,Ita-Sic-BNT8,Ita-Sic-BNT3,San24,San26,Sap47,Sap49,Sap64,Sul2,Sul4,Tar1,Tar12
+1a_32_5 4_52_6,Bd21,Bd3-1,BdTR5I,Vyt1,Vyt2,Vyt3,Meg1,Meg2,Meg3,Meg4,Meg5,Meg6,Veg1,Veg15,Siat3,Siat4,Siat5,Siat6,Siat8,Siat12,Siat14,Siat15,ABR8
+Adi-12 
+Alb-AL2E 
+Alb-AL2F 
+1c_25_15 1c_35_1,1c_35_7,3_38_12,3_54_3,4_47_25,4_51_22,Bd2-3,Bd29-1,BdTR9K,Veg2,Veg4,Veg5,Veg6,Veg7,Veg9,Veg10,Veg11,Veg12,Veg13,Siat10,BdTR5A,Tek-9,BdTR9M,Ukr-Nvk1
+Sap40 Sap44,Sap57
+Ita-Sic-BNT4 
+Ges26 
+Mig3 
+Tso18 
+1a_29_14 1a_30_24,1a_30_26,1a_31_6,1c_26_3,1c_27_15,1c_28_2,1c_34_1,1c_34_25,ABR4,Bd18-1,BdTR2B,Meg7,Geo-G34i2,Geo-G31i4,Geo-G34i6,Spa-Nor-S12B,Spa-Sou-AB3_3,Spa-Sou-CU_5,BdTR13N,Kah-6,Koz-5,BdTR13B,Spa-GU5_1,Sap58
+1a_32_10 ABR5,BdTR2G,Ges1,Kah-1,Lb13,Spa-Nor-S19A
+ABR2 
+Adi-2 
+BdTR11A BdTR11E
+2_14_20 BdTR10C,Spa-Sou-CU1_6
+2_20_16 Spa-Nor-S6E,Spa-Nor-S6B
+Spa-Sou-J4_3 Spa-SouGR3_6
+Cb23 Cro24,Syv1,Syv3,Gj1,Gj2,Gj3,Gj4,Ko2,Ko3,Bi1,Bi2,Mca12,Mca16,Mca18,Mca19,Mca23,Msa11,Msa16,Msa9,Alb-AL1A,Ita-Sic-CSR6,Ita-Sic-LPA3,Ita-Sic-CSR7,San11,San12,San25,Sap31,Sap59,Sap61,Sap66,Sap68
+Msa6 Spm16
+1c_25_7 1c_26_4,2_9_9,4_45_19

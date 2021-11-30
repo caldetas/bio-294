@@ -1,0 +1,44 @@
+number of samples not displayed:
+
+3_42_11 14
+MonSV1 11
+Chi2 36
+1c_27_15 14
+1c_34_1 20
+Siat6 3
+Veg4 5
+2_5_10 13
+ABR2 15
+ABR4 17
+Cb23 2
+ABR3 5
+Spa-Sou-CU1_6 0
+1a_30_2 19
+Mig3 7
+1c_25_14 37
+ABR9 1
+1a_29_14 9
+1a_29_27 33
+
+
+index of sequences:
+
+3_42_11 3_42_19,3_55_13,3_55_27,4_45_19,Bd1-1,Meg2,Meg4,Meg5,Veg1,Veg11,Siat10,Siat14,Syv3,Alb-AL2D
+MonSV1 MonSV10,MonSV11,MonSV12,MonSV13,MonSV14,MonSV3,Lam13,Lam6,Spa-Nor-S11A,Spa-Nor-S11B,Shf16
+Chi2 Chi3,Cro24,MonSV15,MonSV7,MonSV8,MonSV9,Ges1,Ges26,Lb1,Lb11,Lb16,Lb18,Lb21,Lb3,Lb7,Lb8,Leo7,Leo8,Mcp2,Mcp7,Ram6,Ren19,Ren4,Ren5,San24,San26,Sap40,Sap44,Sap47,Sap49,Sap57,Sap58,Sap59,Sap64,Tar1,Tar12
+1c_27_15 1c_27_8,2_14_13,2_14_25,2_9_9,4_47_25,Bd21,Cm4,Msa11,Msa6,ABR8,Ita-Sic-CSR6,Ita-Sic-CSR7,San11,San12
+1c_34_1 1c_34_25,3_41_1,Bd18-1,Meg3,Meg6,Veg2,Veg3,Veg7,Veg8,Veg9,Veg10,Veg15,Siat1,Siat2,Siat4,Siat5,Siat7,Siat8,Arm-Arm-3i,Alb-AL1A
+Siat6 Siat12,Siat13,Siat15
+Veg4 Veg5,Veg6,Veg12,Veg13,Veg14
+2_5_10 2_5_21,3_38_19,3_41_3,4_47_16,Cm2,Vyt1,Vyt2,Vyt3,Syv2,Mca12,Mca19,Msa27,Ita-Sic-BNT4
+ABR2 ABR5,ABR7,Arn1,Bd30-1,Foz1,Mon3,Spa-Sou-AB3_3,Spa-Sou-CU_5,Spa-Sou-AB1_4,Spa-Nor-S6D,Spa-SouGR3_6,Ita-Sic-BNT3,Sig2,Tso18,Tso22
+ABR4 ABR6,BdTR10C,MonSV2,MonSV4,Jer1,Mur1,S8iiC,Spa-Sou-GR6_4,Spa-Nor-S22C,Spa-Sou-J4_3,Spa-Sou-J6_2,Spa-Sou-Z3_6,BdTR10D,Spa-GU5_1,Shf23,Shf28,Tso17
+Cb23 Mca18,Msa9
+ABR3 Per1,RON2,Spa-Nor-S11D,Spa-Nor-S22B,Spa-Nor-S17D
+Spa-Sou-CU1_6 
+1a_30_2 1a_30_4,2_14_15,2_14_20,2_20_16,Adi-12,Syv1,MonSV6,Ges19,Ges5,Luc1,Ren14,Ren22,Arm-Arm-2B,Spa-Nor-S19A,Spa-Sou-HU3_4,Spa-Sou-Sg2_1,Adi-4,Tso3,Tso8
+Mig3 Spa-Nor-S12B,Spa-Nor-S16D,Spa-Nor-S6E,Spa-Nor-S6B,Shf8,Uni2,Vif1
+1c_25_14 1c_25_15,1c_25_7,1c_26_3,1c_26_4,1c_28_1,1c_28_2,2_9_1,3_54_3,4_36_22,4_49_22,4_49_26,4_51_22,4_52_15,4_52_6,Bd3-1,Cm10,Cm3,Siat3,Siat9,Siat11,Myt1,Myt2,Myt3,Myt4,Myt5,Mca10,Mca26,Geo-G33i6,Alb-AL2E,Geo-G30i2,Geo-G33i4,Alb-AL2F,Arm-Arm-3A,Tek-9,Koz-5,Arm-Arm-3G,Ita-Sic-BNT8
+ABR9 San25
+1a_29_14 1a_31_2,1a_31_6,BdTR5I,Kah-1,BdTR5A,Gaz-7,Kah-6,Adi-9,Gaz-2
+1a_29_27 1c_35_1,1c_35_7,2_1_7,2_8_1,2_8_3,3_40_4,3_54_19,Bd2-3,Bd29-1,BdTR11A,BdTR11G,BdTR11I,BdTR8i,Cm12,Cm13,Meg1,MonSV5,Gj1,Ges30,Lb13,Lb23,Mca16,Mca23,Msa16,Ita-Sic-LPA3,Ita-Sic-SLZ2,BdTR11E,Ukr-Nvk1,Sap31,Sap61,Spm16,Tek-2,Tek-4

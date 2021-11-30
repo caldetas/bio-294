@@ -1,0 +1,192 @@
+number of samples not displayed:
+
+1a_29_27 0
+Spa-Sou-Z3_6 0
+1c_25_7 0
+Spa-Nor-S11A 0
+Arm-Arm-2B 1
+Adi-9 0
+Arm-Arm-3i 0
+Spa-Sou-GR6_4 0
+Ita-Sic-BNT3 0
+Vyt3 0
+BdTR9M 0
+Sap57 0
+Ko3 0
+Ges19 0
+Vyt2 0
+Ges26 0
+Sap31 0
+Alb-AL1A 0
+Veg6 0
+Ko2 0
+Bi1 0
+Vyt1 0
+Lb8 2
+Siat11 0
+Mcp2 0
+Ren22 0
+Veg15 0
+Mca12 0
+Ren4 0
+Veg5 0
+Mcp7 0
+Lb16 0
+MonSV3 0
+Tso17 0
+1c_25_15 7
+3_41_3 0
+2_14_13 1
+2_8_1 0
+Cm18 1
+1a_31_6 38
+2_14_15 0
+Cro24 0
+4_49_26 0
+Sap68 0
+Cm4 0
+2_14_20 0
+Mig3 0
+Spa-Sou-CU1_6 0
+Sap66 0
+4_47_16 1
+Sap59 0
+Bd29-1 0
+ABR7 0
+Bd1-1 0
+Bd3-1 0
+ABR9 0
+Adi-2 0
+Kah-5 0
+Cm2 0
+Lb1 0
+Kah-1 0
+BdTR11A 1
+Adi-10 0
+Chi2 0
+Veg2 0
+Cm3 0
+Veg3 0
+Spm16 0
+Bd18-1 0
+Ges5 0
+Mca23 0
+Per1 0
+ABR4 0
+4_36_22 0
+Ren5 0
+Ita-Sic-LPA3 0
+Tek-9 0
+3_54_3 0
+Lam6 0
+Arn1 0
+Spa-Nor-S12B 0
+Myt4 0
+Msa11 0
+Myt5 0
+Adi-12 0
+BdTR9K 0
+Siat12 0
+Ren19 0
+Siat13 0
+Siat15 0
+4_45_19 0
+Msa6 0
+Mca19 0
+
+
+index of sequences:
+
+1a_29_27 
+Spa-Sou-Z3_6 
+1c_25_7 
+Spa-Nor-S11A 
+Arm-Arm-2B Adi-15
+Adi-9 
+Arm-Arm-3i 
+Spa-Sou-GR6_4 
+Ita-Sic-BNT3 
+Vyt3 
+BdTR9M 
+Sap57 
+Ko3 
+Ges19 
+Vyt2 
+Ges26 
+Sap31 
+Alb-AL1A 
+Veg6 
+Ko2 
+Bi1 
+Vyt1 
+Lb8 Alb-AL2D,Shf8
+Siat11 
+Mcp2 
+Ren22 
+Veg15 
+Mca12 
+Ren4 
+Veg5 
+Mcp7 
+Lb16 
+MonSV3 
+Tso17 
+1c_25_15 1c_26_3,1c_28_2,2_8_3,3_40_4,3_42_19,Siat3,Tek-4
+3_41_3 
+2_14_13 2_14_25
+2_8_1 
+Cm18 Spa-Nor-S6D
+1a_31_6 1a_32_5,ABR2,ABR6,Bd2-3,Bd21,Bd21-3,Bd30-1,BdTR10C,BdTR13C,BdTR13a,BdTR1i,BdTR2B,BdTR2G,BdTR3C,Bis-1,Cm12,Foz1,Gaz-8,Koz-1,Koz-3,Lb11,Luc1,Mca10,Mon3,ABR8,Geo-G33i6,Geo-G31i4,Geo-G33i4,Spa-Nor-S22B,Adi-4,BdTR13N,Gaz-1,Koz-2,Koz-5,BdTR13B,BdTR3M,BdTR10D,Sig2
+2_14_15 
+Cro24 
+4_49_26 
+Sap68 
+Cm4 
+2_14_20 
+Mig3 
+Spa-Sou-CU1_6 
+Sap66 
+4_47_16 San11
+Sap59 
+Bd29-1 
+ABR7 
+Bd1-1 
+Bd3-1 
+ABR9 
+Adi-2 
+Kah-5 
+Cm2 
+Lb1 
+Kah-1 
+BdTR11A BdTR12c
+Adi-10 
+Chi2 
+Veg2 
+Cm3 
+Veg3 
+Spm16 
+Bd18-1 
+Ges5 
+Mca23 
+Per1 
+ABR4 
+4_36_22 
+Ren5 
+Ita-Sic-LPA3 
+Tek-9 
+3_54_3 
+Lam6 
+Arn1 
+Spa-Nor-S12B 
+Myt4 
+Msa11 
+Myt5 
+Adi-12 
+BdTR9K 
+Siat12 
+Ren19 
+Siat13 
+Siat15 
+4_45_19 
+Msa6 
+Mca19 

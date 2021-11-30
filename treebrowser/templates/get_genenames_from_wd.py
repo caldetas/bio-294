@@ -10,12 +10,12 @@ Created on Wed Nov 24 15:59:46 2021
 
 def get_all_genenames():
     import os
-
+    all_files={}
     genefiles=[]
 
 
-    for files in os.walk("static/treefiles"):
-        print(files)
+    for files in os.walk("../static/treefiles"):
+        #print(files)
         for file in files[2]:
         
             name=str(file)
@@ -28,10 +28,16 @@ def get_all_genenames():
         genenames.append(gene)
         
         
-    return genenames
+        
+    for counter, fyle in enumerate(genenames):
+        all_files[genenames[counter]]=genefiles[counter]
+    
+    #print(all_files)
+    return genenames, all_files
 
 
-print(get_all_genenames())
+
+genen, all_f= get_all_genenames()
 
 
 

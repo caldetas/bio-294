@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+
+
+
+{% block content %}
+
+
+
+
+<header class="masthead">
+    <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+
+
+    	<meta charset="UTF-8" />
+    	<meta name="viewport" content=
+    		"width=device-width, initial-scale=1.0" />
+    	<script src=
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+    	</script>
+    	
+    	<script src=
+    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.min.js">
+    	</script>
+    	
+    	<link href=
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    		rel="stylesheet" />
+    
+    	<style>
+    		.typeahead {
+    			width: 50%;
+    			top: 60px !important;
+    			left: 50px !important;
+    		}
+    	</style>
+    
+        <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
+            <div class="col-lg-6">
+                <div class="bg-black text-center h-100 project">
+                     <div class="d-flex h-100">
+                        <div class="project-text w-100 my-auto text-center text-lg-left">
+                            <br>
+                            <h4 class="text-white">Enter the genename:</h4>
+                            <br>
+                            <p class="mb-0 text-white-50">Enter the Brachypodium dystachion Gene to get its phylogenetic tree.</p>
+                            <br>
+        
+                            <form action="#", method="post">
+                            <div class="row input-group-newsletter">
+                                    
+          
+                            <input type="text" class="typeahead" name="nm"
+                                data-provide="typeahead" 
+                                placeholder="Your Gene.. " />
+                            <div class="col-auto"><input type="submit" value="Go!"></div>
+                        
+                            
+                            </div>
+                            <hr class="d-none d-lg-block mb-0 ms-0" /> 
+                          
+                          </div>
+                    </div>           
+                </div>
+            </div>
+        </div>
+    
+    	<script>
+    	
+    		// Initializes input( name of states)
+    		// with a typeahead
+    		var $input = $(".typeahead");
+    		$input.typeahead({
+    			source: {{lyst|tojson|safe}} ,
+    			autoSelect: true,
+    		});
+    
+    		$input.change(function () {
+    			var current = $input.typeahead("getActive");
+    			matches = [];
+    
+    			if (current) {
+    
+    				// Some item from your input matches
+    				// with entered data
+    				if (current.name == $input.val()) {
+    					matches.push(current.name);
+    				}
+    			}
+    		});
+    	</script>
+    </div>
+</header>
+<!-- Footer-->
+<footer class="footer bg-black small text-center text-white-50"><div class="container px-4 px-lg-5">BIO294 Project - UZH</div></footer>
+
+
+{% endblock %}
+

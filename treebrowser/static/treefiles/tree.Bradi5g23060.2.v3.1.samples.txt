@@ -1,0 +1,170 @@
+number of samples not displayed:
+
+2_5_10 0
+Siat4 0
+MonSV11 1
+3_40_4 0
+Ren14 0
+1c_27_15 2
+ABR5 0
+1c_27_8 0
+Ukr-Nvk1 0
+1c_28_2 0
+Sul5 0
+Cm12 0
+Sap31 0
+Mca18 3
+MonSV1 2
+Ren5 0
+Lb21 0
+Sap64 0
+Per1 0
+4_47_16 0
+Spa-Nor-S11A 0
+Spa-Nor-S12B 0
+2_5_21 0
+1c_35_1 0
+3_54_3 0
+Lam13 0
+3_41_1 1
+Cm13 0
+Mca16 0
+Leo8 0
+3_38_12 0
+Cm10 0
+Geo-G30i2 0
+Chi3 0
+Meg1 0
+Syv1 0
+1c_34_25 1
+Spa-SouGR3_6 0
+MonSV10 0
+1c_25_15 3
+4_51_22 0
+2_9_1 0
+2_9_9 0
+1c_35_7 0
+4_52_15 0
+Mur1 0
+Bd29-1 0
+Adi-10 1
+Veg12 0
+Cm7 0
+Sap59 0
+Sul2 0
+Gaz-8 0
+1c_34_1 0
+Ges30 0
+Mca12 1
+1a_31_6 0
+Sig2 0
+1a_32_10 0
+Arn1 0
+Gaz-1 0
+Luc1 0
+Foz1 0
+Bd18-1 0
+Jer1 0
+ABR6 0
+2_14_15 0
+S8iiC 0
+Bd30-1 0
+2_14_20 0
+Uni2 0
+Lam6 0
+Spa-Nor-S22C 0
+1a_29_14 1
+Tso17 1
+1a_29_12 70
+ABR2 0
+Lb1 0
+Sul4 0
+Bd1-1 0
+ABR9 0
+Sap68 0
+
+
+index of sequences:
+
+2_5_10 
+Siat4 
+MonSV11 Spa-Nor-S22B
+3_40_4 
+Ren14 
+1c_27_15 4_36_22,4_45_19
+ABR5 
+1c_27_8 
+Ukr-Nvk1 
+1c_28_2 
+Sul5 
+Cm12 
+Sap31 
+Mca18 Msa27,Sap40,Sap49
+MonSV1 Ges1,Sap58
+Ren5 
+Lb21 
+Sap64 
+Per1 
+4_47_16 
+Spa-Nor-S11A 
+Spa-Nor-S12B 
+2_5_21 
+1c_35_1 
+3_54_3 
+Lam13 
+3_41_1 RON2
+Cm13 
+Mca16 
+Leo8 
+3_38_12 
+Cm10 
+Geo-G30i2 
+Chi3 
+Meg1 
+Syv1 
+1c_34_25 Siat9
+Spa-SouGR3_6 
+MonSV10 
+1c_25_15 3_54_19,3_55_27,4_47_25
+4_51_22 
+2_9_1 
+2_9_9 
+1c_35_7 
+4_52_15 
+Mur1 
+Bd29-1 
+Adi-10 Mig3
+Veg12 
+Cm7 
+Sap59 
+Sul2 
+Gaz-8 
+1c_34_1 
+Ges30 
+Mca12 Msa16
+1a_31_6 
+Sig2 
+1a_32_10 
+Arn1 
+Gaz-1 
+Luc1 
+Foz1 
+Bd18-1 
+Jer1 
+ABR6 
+2_14_15 
+S8iiC 
+Bd30-1 
+2_14_20 
+Uni2 
+Lam6 
+Spa-Nor-S22C 
+1a_29_14 Kah-1
+Tso17 Tso3
+1a_29_12 1a_29_27,1a_30_2,1a_30_24,1a_30_26,1a_30_4,1a_31_2,1a_32_5,1c_25_14,1c_25_7,1c_26_3,1c_26_4,1c_28_1,2_1_7,2_8_1,2_8_3,4_49_22,4_49_26,Adi-12,Adi-2,Bd2-3,Bd21,Bd21-3,Bd3-1,BdTR10C,BdTR11A,BdTR11G,BdTR11I,BdTR12c,BdTR13C,BdTR13a,BdTR1i,BdTR2B,BdTR2G,BdTR3C,BdTR5I,BdTR9K,Bis-1,Kah-5,Koz-1,Koz-3,Ren19,ABR8,Arm-Arm-3i,Geo-G33i6,Geo-G34i2,Geo-G31i4,Geo-G33i4,Arm-Arm-3A,Geo-G34i6,Spa-Sou-GR6_4,Spa-Sou-CU1_6,Adi-15,Adi-4,BdTR5A,Gaz-7,BdTR13N,Kah-6,Koz-2,Koz-5,BdTR9M,BdTR13B,BdTR11E,BdTR3M,Adi-9,Gaz-2,BdTR12B,Arm-Arm-3G,BdTR10D,Geo-G32i2,Tar12
+ABR2 
+Lb1 
+Sul4 
+Bd1-1 
+ABR9 
+Sap68 

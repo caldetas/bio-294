@@ -1,0 +1,52 @@
+number of samples not displayed:
+
+ABR9 1
+Ita-Sic-BNT8 0
+2_14_13 16
+1c_26_3 0
+Spa-Nor-S11D 1
+1a_29_12 100
+2_20_16 3
+2_1_7 56
+Lb21 0
+Leo8 0
+Myt5 0
+Bd21-3 0
+Koz-3 1
+Adi-12 0
+3_55_27 30
+Lb11 3
+Lb8 0
+ABR6 0
+Spa-Sou-AB3_3 0
+Veg1 0
+Tso8 0
+Spa-Sou-Sg2_1 0
+2_14_15 12
+
+
+index of sequences:
+
+ABR9 Ges1
+Ita-Sic-BNT8 
+2_14_13 2_14_25,2_9_1,3_38_12,3_38_19,3_41_1,3_42_11,3_54_19,Leo7,Mca10,Mca18,Mca26,Msa9,San25,San26,Sap40,Sap59
+1c_26_3 
+Spa-Nor-S11D Spa-Nor-S17D
+1a_29_12 1a_29_14,1a_29_27,1a_30_2,1a_30_24,1a_30_26,1a_30_4,1a_31_2,1a_31_6,1a_32_10,1a_32_12,1a_32_5,1c_25_7,1c_26_4,1c_27_15,1c_27_8,1c_28_1,1c_28_2,1c_34_1,1c_34_25,2_5_21,2_8_1,2_8_3,3_41_3,4_36_22,4_47_25,Adi-10,Adi-2,Bd18-1,Bd21,Bd3-1,Bd30-1,BdTR10C,BdTR12c,BdTR13C,BdTR13a,BdTR1i,BdTR2B,BdTR2G,BdTR3C,BdTR5I,BdTR9K,Bis-1,Cb23,Chi2,Cro24,MonSV10,MonSV11,MonSV12,MonSV13,MonSV14,MonSV2,Meg7,MonSV4,Gj2,Gj3,Gj4,Gaz-8,Kah-1,Kah-5,Koz-1,Lam6,Mca12,Mca16,Mca19,Mca23,Per1,ABR8,Arm-Arm-3i,Geo-G34i2,Geo-G31i4,Arm-Arm-2B,Arm-Arm-3A,Geo-G34i6,Spa-Sou-CU_5,Spa-Sou-AB1_4,Spa-Sou-GR6_4,Spa-Sou-CU1_6,Spa-Sou-HU3_4,Spa-Sou-J4_3,Spa-SouGR3_6,Adi-15,BdTR5A,Gaz-7,BdTR13N,Gaz-1,Kah-6,Koz-2,Koz-5,BdTR9M,BdTR13B,BdTR3M,Adi-9,BdTR12B,Arm-Arm-3G,BdTR10D,Geo-G32i2,Shf16,Shf23,Shf8,Spm16
+2_20_16 ABR3,Mur1,Uni2
+2_1_7 2_5_10,3_55_13,4_45_19,BdTR7a,BdTR8i,Chi3,Cm10,Cm12,Cm13,Cm7,Meg2,Meg6,Veg7,Veg9,Veg10,Veg11,Siat1,Siat7,Siat11,Siat12,Siat13,Siat15,Syv3,Myt1,Myt2,Myt3,Myt4,Ges19,Ges26,Ges30,Ges5,Lb3,Leo2,Mcp2,Mcp7,Msa16,Msa27,Ram6,Ren19,Ren4,Ren5,Geo-G30i2,Ita-Sic-CSR6,Ita-Sic-CSR7,Ita-Sic-BNT3,San24,Sap44,Sap47,Sap49,Sap57,Sap58,Sap64,Sul4,Tar1,Tar12,Tek-2
+Lb21 
+Leo8 
+Myt5 
+Bd21-3 
+Koz-3 Adi-4
+Adi-12 
+3_55_27 4_52_15,4_52_6,BdTR11A,BdTR11G,BdTR11I,Cm16,Cm18,Cm2,Cm3,Cm4,MonSV5,Gj1,Ko2,Ko3,Bi1,Bi2,Lb1,Lb13,Lb16,Lb23,Mon3,Alb-AL1A,Alb-AL2E,Alb-AL2F,Ita-Sic-LPA3,Spa-Nor-S6D,BdTR11E,San11,San12,Sul5
+Lb11 Lb18,Lb7,Msa11
+Lb8 
+ABR6 
+Spa-Sou-AB3_3 
+Veg1 
+Tso8 
+Spa-Sou-Sg2_1 
+2_14_15 2_14_20,4_49_26,Siat2,MonSV7,Foz1,RON2,Spa-Nor-S16D,Spa-Nor-S6E,Spa-Nor-S22C,Sig2,Tso17,Vif1

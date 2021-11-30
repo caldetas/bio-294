@@ -1,0 +1,86 @@
+number of samples not displayed:
+
+3_41_3 5
+Spa-Sou-CU_5 0
+2_14_13 36
+Sap61 0
+Lb18 0
+2_9_1 29
+Syv3 0
+ABR3 17
+MonSV10 4
+Spa-Sou-AB1_4 0
+Spa-Nor-S6E 1
+ABR2 0
+1a_29_14 28
+1a_30_24 3
+2_9_9 0
+ABR5 0
+Bd21-3 0
+4_52_6 40
+Ita-Sic-SLZ2 0
+Meg7 0
+2_20_16 0
+1c_25_14 22
+1c_25_15 1
+4_36_22 0
+Ita-Sic-LPA3 0
+2_5_21 0
+Syv2 1
+Sap64 0
+Cb23 5
+Meg3 0
+Chi2 1
+Ita-Sic-CSR7 0
+BdTR8i 1
+2_14_15 1
+3_38_19 2
+Ita-Sic-CSR6 1
+ABR6 0
+Sig2 0
+Uni2 0
+Mur1 0
+
+
+index of sequences:
+
+3_41_3 Gj1,Gj2,Gj3,Gj4,San25
+Spa-Sou-CU_5 
+2_14_13 2_14_25,2_1_7,3_40_4,3_42_19,3_55_27,4_49_22,4_49_26,4_52_15,ABR9,Cm4,MonSV5,Siat10,Ges19,Ges5,Lb11,Lb21,Lb23,Lb7,Leo7,Mcp2,Msa16,Ren14,Ren22,Ren4,Ren5,Geo-G33i6,Geo-G33i4,Spa-Sou-J4_3,Tek-9,San24,San26,Sap44,Sap57,Sap58,Sul4,Sul5
+Sap61 
+Lb18 
+2_9_1 3_38_12,3_41_1,Bd1-1,BdTR7a,Veg4,Veg6,Veg7,Veg9,Veg10,Veg11,Veg12,Veg13,Veg14,Siat3,Siat4,Siat5,Siat6,Siat8,Siat11,Siat12,Siat13,Siat15,Myt1,Myt2,Myt3,Myt4,Myt5,Geo-G30i2,Ukr-Nvk1
+Syv3 
+ABR3 MonSV1,MonSV6,Jer1,Lam13,Spa-Nor-S11D,Spa-Nor-S11A,Spa-Nor-S11B,Spa-Nor-S22B,Spa-Nor-S17D,Spa-Sou-CU1_6,Spa-Sou-J6_2,Shf16,Shf23,Shf28,Shf8,Tso17,Tso18
+MonSV10 MonSV11,MonSV12,MonSV13,MonSV14
+Spa-Sou-AB1_4 
+Spa-Nor-S6E Spa-Nor-S6B
+ABR2 
+1a_29_14 1a_32_10,1a_32_12,1a_32_5,2_8_1,2_8_3,Bd2-3,BdTR10C,BdTR13C,BdTR13a,BdTR9K,Bis-1,Cm10,Cm12,Cm13,Cm18,Ges1,Ges30,Kah-1,Koz-3,Ita-Sic-BNT4,BdTR13N,Koz-5,BdTR9M,BdTR13B,BdTR10D,Ita-Sic-BNT8,Sap66,Sap68
+1a_30_24 1a_30_26,Adi-10,Adi-12
+2_9_9 
+ABR5 
+Bd21-3 
+4_52_6 Chi3,Cm16,Cm2,Cm3,Cm7,Veg5,Siat1,Siat7,Syv1,Ko2,Ko3,Bi1,Bi2,Ges26,Lb1,Lb13,Lb16,Lb3,Lb8,Leo2,Leo8,Mca16,Mca18,Mca23,Mcp7,Msa11,Msa6,Msa9,Ram6,Ren19,Alb-AL2E,Alb-AL2F,Alb-AL2D,Sap31,Sap40,Sap47,Sap49,Sul2,Tar1,Tar12
+Ita-Sic-SLZ2 
+Meg7 
+2_20_16 
+1c_25_14 1c_35_1,1c_35_7,2_5_10,3_42_11,3_54_19,3_54_3,3_55_13,4_47_16,4_47_25,4_51_22,Vyt1,Vyt2,Vyt3,Veg2,Veg3,Veg15,Siat14,Mca12,Mca19,Mca26,Ita-Sic-BNT3,Tek-4
+1c_25_15 4_45_19
+4_36_22 
+Ita-Sic-LPA3 
+2_5_21 
+Syv2 Alb-AL1A
+Sap64 
+Cb23 Meg1,Meg2,Meg4,Meg5,Meg6
+Meg3 
+Chi2 San12
+Ita-Sic-CSR7 
+BdTR8i Tek-2
+2_14_15 2_14_20
+3_38_19 Bd21,ABR8
+Ita-Sic-CSR6 Sap59
+ABR6 
+Sig2 
+Uni2 
+Mur1 

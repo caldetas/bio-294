@@ -1,0 +1,54 @@
+number of samples not displayed:
+
+Cm16 8
+Veg13 1
+1c_25_14 0
+1c_26_4 68
+Ita-Sic-SLZ2 0
+2_1_7 0
+2_9_1 20
+Cm12 11
+ABR2 0
+BdTR7a 14
+Uni2 0
+3_42_19 3
+Sap40 0
+1a_29_12 57
+Kah-1 0
+Sig2 0
+Foz1 3
+1a_31_6 49
+ABR3 1
+ABR6 0
+ABR7 0
+Veg5 9
+Mca18 0
+Cro24 1
+
+
+index of sequences:
+
+Cm16 Veg12,Veg14,Lb13,Mca16,Mca23,Msa16,Msa6,Sul5
+Veg13 Mca12
+1c_25_14 
+1c_26_4 1c_28_2,1c_35_1,1c_35_7,2_14_13,2_14_25,2_9_9,3_38_12,3_40_4,3_41_3,3_54_19,3_55_13,3_55_27,4_36_22,4_45_19,4_47_16,4_47_25,4_49_22,4_49_26,4_51_22,4_52_6,ABR9,Bd1-1,Cb23,Chi3,Cm7,Vyt1,Vyt2,Vyt3,Veg1,Veg2,Veg3,Veg4,Veg15,Siat1,Siat2,Siat7,Siat8,Siat10,Siat12,Siat13,Siat15,Syv2,Myt2,Myt3,Myt4,Lb16,Lb23,Mca10,Msa27,Geo-G33i6,Geo-G34i2,Alb-AL2E,Geo-G31i4,Geo-G30i2,Geo-G33i4,Alb-AL2F,Alb-AL2D,Arm-Arm-3A,Arm-Arm-3G,Ita-Sic-BNT8,San24,Sap31,Sap44,Sap57,Sap64,Sap66,Sul4,Tso18
+Ita-Sic-SLZ2 
+2_1_7 
+2_9_1 Chi2,Cm10,Cm13,Cm3,Cm4,MonSV5,Siat14,Ges1,Ges19,Ges26,Ges5,Lb1,Leo8,Mcp2,Ren14,Ren19,Ren22,Ren4,Sap59,Tar1
+Cm12 Cm18,Ges30,Lb8,Leo2,Mca26,Mcp7,Ram6,Ita-Sic-BNT3,San26,Sul2,Tar12
+ABR2 
+BdTR7a Cm2,Meg2,Meg3,Siat11,Myt1,Myt5,Lb18,Lb21,Lb3,Geo-G34i6,Ita-Sic-BNT4,Sap58,Sap68,Tek-4
+Uni2 
+3_42_19 Lb11,Lb7,Shf23
+Sap40 
+1a_29_12 1a_29_14,1a_29_27,1a_30_24,1a_30_26,1a_31_2,1a_32_10,1a_32_12,1a_32_5,1c_26_3,Adi-10,Adi-2,Bd18-1,Bd21,Bd21-3,Bd3-1,BdTR10C,BdTR11A,BdTR11G,BdTR11I,BdTR12c,BdTR13C,BdTR13a,BdTR1i,BdTR2B,BdTR2G,BdTR3C,BdTR5I,BdTR9K,Bis-1,Kah-5,Koz-1,Koz-3,ABR8,Arm-Arm-3i,Arm-Arm-2B,Spa-Nor-S11A,Spa-Sou-CU_5,Spa-Nor-S11B,Spa-Sou-J6_2,Spa-Sou-Z3_6,Adi-15,Adi-4,BdTR5A,Gaz-7,BdTR13N,Gaz-1,Kah-6,Koz-2,Koz-5,BdTR9M,BdTR13B,BdTR11E,BdTR3M,Gaz-2,BdTR12B,BdTR10D,Geo-G32i2
+Kah-1 
+Sig2 
+Foz1 Mur1,Spa-Nor-S12B,Vif1
+1a_31_6 1c_25_7,1c_27_15,1c_27_8,1c_28_1,1c_34_1,1c_34_25,2_5_21,2_8_1,2_8_3,3_38_19,3_41_1,3_42_11,3_54_3,4_52_15,Adi-12,Arn1,Bd2-3,Bd29-1,Meg1,Meg4,Meg5,Meg6,Meg7,Veg6,Veg7,Veg9,Veg10,Veg11,Siat3,Siat4,Siat6,Siat9,Syv1,Syv3,Gaz-8,Mon3,Msa11,Msa9,Ita-Sic-CSR6,Ita-Sic-CSR7,Spa-Sou-GR6_4,Spa-Nor-S6D,Tek-9,Adi-9,Ukr-Nvk1,San11,San12,San25,Sap61
+ABR3 ABR4
+ABR6 
+ABR7 
+Veg5 Gj1,Gj2,Gj3,Gj4,Ko2,Ko3,Bi1,Bi2,Ita-Sic-LPA3
+Mca18 
+Cro24 Spm16

@@ -1,0 +1,82 @@
+number of samples not displayed:
+
+Spa-Nor-S11A 0
+Spa-Nor-S11B 0
+Chi2 37
+Ges19 1
+MonSV10 0
+MonSV11 3
+1a_30_2 4
+Foz1 3
+Bd30-1 0
+Spa-SouGR3_6 0
+Cro24 0
+2_14_15 0
+2_14_20 0
+MonSV2 5
+Cm10 0
+Ita-Sic-BNT4 0
+2_14_13 0
+2_14_25 0
+ABR5 4
+Arn1 9
+2_20_16 4
+ABR3 0
+MonSV1 3
+1a_29_14 32
+Meg2 7
+1c_25_14 23
+Syv3 0
+1c_25_15 15
+1c_34_1 1
+ABR4 16
+Cm18 0
+3_42_11 7
+Mca12 0
+1c_27_15 7
+MonSV3 3
+ABR6 4
+2_1_7 5
+Cm2 0
+
+
+index of sequences:
+
+Spa-Nor-S11A 
+Spa-Nor-S11B 
+Chi2 Chi3,Gj2,Gj3,Gj4,MonSV7,MonSV8,MonSV9,Ges1,Ges26,Ges5,Lb1,Lb11,Lb18,Lb21,Lb3,Lb7,Lb8,Leo7,Leo8,Mcp2,Mcp7,Ram6,Ren14,Ren19,Ren22,Ren4,San24,Sap40,Sap44,Sap47,Sap49,Sap57,Sap58,Sap59,Sap64,Tar1,Tar12
+Ges19 San26
+MonSV10 
+MonSV11 MonSV12,MonSV13,MonSV14
+1a_30_2 1a_30_4,1a_32_10,Bd2-3,Arm-Arm-2B
+Foz1 Luc1,Spa-Sou-CU1_6,Sig2
+Bd30-1 
+Spa-SouGR3_6 
+Cro24 
+2_14_15 
+2_14_20 
+MonSV2 MonSV4,Per1,RON2,Spa-Sou-GR6_4,Spa-Sou-HU3_4
+Cm10 
+Ita-Sic-BNT4 
+2_14_13 
+2_14_25 
+ABR5 ABR7,Spa-Sou-AB3_3,Spa-Sou-AB1_4,Spa-Sou-J6_2
+Arn1 Jer1,Mon3,Mur1,Spa-Nor-S22B,Spa-Nor-S6D,Spa-GU5_1,Shf23,Shf28,Tso17
+2_20_16 ABR2,MonSV6,Spa-Nor-S19A,Shf8
+ABR3 
+MonSV1 Syv1,Ita-Sic-BNT3,Tso3
+1a_29_14 1a_29_27,1c_25_7,1c_28_1,1c_28_2,4_36_22,4_52_6,ABR9,Bd21,Bd3-1,BdTR11A,BdTR11G,BdTR11I,BdTR5I,Cm16,Cm7,Siat3,Siat9,Kah-1,Leo2,ABR8,Geo-G33i6,Geo-G33i4,Arm-Arm-3A,BdTR5A,Kah-6,BdTR11E,Adi-9,Arm-Arm-3G,San25,Sul2,Sul4,Sul5
+Meg2 Meg4,Meg5,Meg7,Ko2,Ko3,Bi1,Bi2
+1c_25_14 1c_26_3,1c_26_4,2_9_9,3_41_1,4_47_25,Adi-12,Bd1-1,Cm3,Cm4,Mca10,Mca16,Mca23,Mca26,Msa11,Msa16,Msa6,Adi-4,Ita-Sic-BNT8,San11,San12,Sap66,Sap68,Spm16
+Syv3 
+1c_25_15 2_9_1,3_38_19,4_49_22,4_49_26,4_51_22,4_52_15,BdTR7a,Siat4,Siat11,Myt1,Myt2,Myt3,Myt4,Myt5,Geo-G30i2
+1c_34_1 1c_34_25
+ABR4 BdTR10C,MonSV15,Mig3,Spa-Nor-S11D,Spa-Nor-S12B,Spa-Nor-S16D,Spa-Sou-CU_5,Spa-Nor-S6E,Spa-Nor-S6B,Spa-Nor-S17D,Spa-Sou-Sg2_1,BdTR10D,Tso18,Tso22,Uni2,Vif1
+Cm18 
+3_42_11 3_42_19,3_55_13,3_55_27,Cm12,Cm13,Ges30,Ita-Sic-SLZ2
+Mca12 
+1c_27_15 1c_27_8,3_54_3,Meg3,Meg6,Veg8,Alb-AL2E,Alb-AL2F
+MonSV3 Lam13,Lam6,Shf16
+ABR6 S8iiC,Spa-Nor-S22C,Spa-Sou-J4_3,Spa-Sou-Z3_6
+2_1_7 3_38_12,BdTR8i,Sap31,Sap61,Tek-2
+Cm2 

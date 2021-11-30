@@ -1,0 +1,84 @@
+number of samples not displayed:
+
+1c_25_7 48
+Cm3 0
+Sul5 0
+2_5_21 0
+Sap44 0
+1c_25_14 77
+3_54_19 19
+MonSV4 0
+Spa-Nor-S16D 2
+Spa-Sou-J4_3 0
+2_5_10 2
+4_49_22 1
+2_9_1 43
+4_52_15 1
+Chi3 1
+2_1_7 0
+Sap61 0
+2_14_15 8
+Per1 0
+1a_29_12 7
+1a_32_5 7
+Spa-Sou-GR6_4 1
+1a_29_14 17
+1a_31_6 2
+BdTR2B 2
+1a_30_2 17
+Adi-12 5
+ABR5 7
+Spa-Sou-AB1_4 1
+Mig3 0
+Spa-Nor-S12B 0
+Arn1 24
+Spa-Sou-CU1_6 1
+Spa-Sou-HU3_4 0
+Bd30-1 0
+BdTR11A 1
+BdTR11I 0
+ABR7 0
+2_20_16 0
+
+
+index of sequences:
+
+1c_25_7 1c_26_4,1c_27_15,2_8_1,2_8_3,2_9_9,3_38_12,3_38_19,3_41_3,3_42_19,3_55_13,3_55_27,4_36_22,4_51_22,ABR9,Chi2,Cm12,Cm13,Cm16,Cm18,Cm4,Meg1,Meg6,Ges1,Ges30,Lb1,Lb13,Lb16,Lb18,Lb21,Lb23,Lb3,Lb8,Leo2,Leo7,Leo8,Mca10,Mca26,Mcp2,Mcp7,Msa27,Ram6,Ren22,Sap47,Sap49,Sap57,Sul2,Sul4,Tek-4
+Cm3 
+Sul5 
+2_5_21 
+Sap44 
+1c_25_14 1c_35_1,1c_35_7,2_14_13,2_14_25,3_41_1,3_42_11,3_54_3,4_45_19,4_47_16,4_47_25,4_52_6,ABR3,ABR4,Bd1-1,Bd29-1,Cm7,Cro24,MonSV1,Vyt1,Vyt2,Vyt3,Meg2,Meg3,Meg4,Meg5,Veg1,Veg2,Veg3,Veg6,Veg7,Veg9,Veg10,Veg15,Siat1,Siat2,Siat3,Siat4,Siat6,Siat7,Siat8,MonSV5,Siat9,Siat10,Siat11,Siat12,Siat13,Siat14,Siat15,Gj4,Ko2,Bi1,Bi2,MonSV8,MonSV9,Lam6,Mon3,Msa11,Msa6,Geo-G33i6,Alb-AL1A,Alb-AL2E,Geo-G33i4,Alb-AL2F,Alb-AL2D,Ita-Sic-BNT4,Ita-Sic-SLZ2,Spa-Nor-S6E,Spa-Nor-S6B,Spa-Nor-S6D,Ita-Sic-BNT8,Ukr-Nvk1,Ita-Sic-BNT3,Sap40,Sap59,Shf28,Tar1,Tar12
+3_54_19 Cb23,Meg7,Syv2,Syv3,Gj1,Mca12,Mca16,Mca18,Mca19,Mca23,Msa16,Msa9,Ita-Sic-CSR6,Ita-Sic-LPA3,Ita-Sic-CSR7,San11,San12,San25,Spm16
+MonSV4 
+Spa-Nor-S16D Spa-Nor-S11A,Spa-Nor-S11B
+Spa-Sou-J4_3 
+2_5_10 Veg5,Siat5
+4_49_22 4_49_26
+2_9_1 3_40_4,Adi-10,Bd21,BdTR5I,BdTR7a,BdTR8i,Cm10,Cm2,MonSV3,Veg4,Veg8,Veg11,Veg12,Veg13,Veg14,Syv1,Myt1,Myt2,Myt3,Myt4,Myt5,Gj2,Gj3,Ko3,Ges19,Ges26,Ges5,Lb11,Lb7,Ren14,Ren4,Ren5,ABR8,BdTR5A,Tek-9,San24,San26,Sap31,Sap58,Sap64,Sap66,Sap68,Tek-2
+4_52_15 Geo-G30i2
+Chi3 Ren19
+2_1_7 
+Sap61 
+2_14_15 2_14_20,ABR2,ABR6,Spa-Sou-AB3_3,Spa-Sou-CU_5,Spa-Nor-S22B,Spa-Sou-Sg2_1,Vif1
+Per1 
+1a_29_12 Arm-Arm-3i,Geo-G34i2,Gaz-7,Koz-2,BdTR9M,BdTR3M,BdTR12B
+1a_32_5 Bd18-1,BdTR12c,Geo-G31i4,Arm-Arm-2B,Adi-4,Koz-5,Geo-G32i2
+Spa-Sou-GR6_4 Spa-GU5_1
+1a_29_14 1a_29_27,1a_30_24,1a_31_2,1a_32_10,1a_32_12,1c_25_15,1c_26_3,1c_28_2,1c_34_1,BdTR13a,BdTR13N,Kah-6,BdTR13B,BdTR11E,Adi-9,Gaz-2,BdTR10D
+1a_31_6 BdTR1i,Gaz-1
+BdTR2B BdTR2G,Gaz-8
+1a_30_2 1a_30_26,1a_30_4,1c_27_8,1c_28_1,1c_34_25,Bd2-3,Bd21-3,Bd3-1,BdTR11G,BdTR13C,BdTR9K,Bis-1,Koz-1,Arm-Arm-3A,Geo-G34i6,Adi-15,Arm-Arm-3G
+Adi-12 Adi-2,BdTR10C,Kah-1,Kah-5,Koz-3
+ABR5 MonSV15,MonSV2,Spa-Nor-S11D,Spa-Nor-S19A,Spa-Nor-S22C,Spa-Sou-Z3_6,Tso18
+Spa-Sou-AB1_4 Spa-Sou-J6_2
+Mig3 
+Spa-Nor-S12B 
+Arn1 MonSV10,MonSV11,MonSV12,MonSV13,MonSV14,MonSV6,MonSV7,Foz1,Jer1,Lam13,Luc1,Mur1,RON2,S8iiC,Spa-Nor-S17D,Shf16,Shf23,Shf8,Sig2,Tso17,Tso22,Tso3,Tso8,Uni2
+Spa-Sou-CU1_6 Spa-SouGR3_6
+Spa-Sou-HU3_4 
+Bd30-1 
+BdTR11A BdTR3C
+BdTR11I 
+ABR7 
+2_20_16 

@@ -1,0 +1,28 @@
+number of samples not displayed:
+
+2_14_13 22
+4_52_15 5
+Geo-G31i4 0
+Cm10 3
+Ges1 0
+Lb18 0
+Cro24 0
+San25 0
+2_14_15 1
+San11 0
+2_9_1 0
+
+
+index of sequences:
+
+2_14_13 2_14_25,2_8_1,2_8_3,3_40_4,3_41_1,3_41_3,Bd21,Bd21-3,Bd3-1,Meg1,Meg3,Meg4,Meg5,Veg4,Veg12,Veg13,Veg14,ABR8,Arm-Arm-3i,Arm-Arm-2B,Ukr-Nvk1,Tek-4
+4_52_15 Cm18,Cm7,Ges26,Ren5,Geo-G32i2
+Geo-G31i4 
+Cm10 Cm12,Cm13,Ges30
+Ges1 
+Lb18 
+Cro24 
+San25 
+2_14_15 2_14_20
+San11 
+2_9_1 
