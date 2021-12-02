@@ -1,8 +1,6 @@
 # Bio-294
 ---
-### Install anaconda
-You can get anaconda from here:   
-https://docs.conda.io/en/latest/miniconda.html   
+
 ### Install git
 
 ```
