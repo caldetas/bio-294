@@ -1,8 +1,6 @@
 # Bio-294
 ---
-### Install anaconda
-You can get anaconda from here:   
-https://docs.conda.io/en/latest/miniconda.html   
+
 ### Install git
 
 ```
@@ -11,7 +9,7 @@ sudo apt install git-all
 ### Install github repository bio-294
 
 ```
-git clone https://github.com/caldetas/bio-294.git   
+git clone https://github.com/leonkrap/bio-294 
 cd bio-294
 ```
 
@@ -23,42 +21,14 @@ conda env create --file dependencies.yml
 conda activate bio294
 ```
    
-      
-      
+### Open the genome browser with the terminal
+Make shure that you are in the treebrowser folder!
 
----
-## Create sequences from VCF
-Download the vcf and the index.
+To open the genome browser use the following command:
 ```
-wget 'http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz/download?path=%2F&files=Bdis333_5_1_21.renamed.SNPs.vcf.bgz.tbi'
-wget 'http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz/download?path=%2F&files=Bdis333_5_1_21.renamed.SNPs.vcf.bgz'
-http://www.caldetas.com:8080/s/YV2VokbiA6uSnhz
+python treebrowser.py
 ```
-``` 
-# send command to shell and read output
-import subprocess
+Then Flask will then load the browser. To open it you can copy the https:// link (it comes up in the line starting with " * Running on ") into your internet browser.
 
-proc = subprocess.Popen('ls', shell=True, stdout=subprocess.PIPE)
-
-for line in proc.stdout:
-    line = str(line.rstrip())[2:-1].encode().decode('unicode_escape').split(sep='\t')
-    if True == True:
-        print('\t'.join(line))
-```
-``` 
-# send command to shell and read output
-import subprocess
-vcf = 'filename'
-#get the samplenames and positions in vcf
- proc = subprocess.Popen(f'bcftools view {vcf}'), shell=True, stdout=subprocess.PIPE, preexec_fn=os.setsid)
-        
-for line in proc.stdout:
-    line = str(line.rstrip())[2:-1].split(sep='\\t')
-    if line[0] == '#CHROM':
-        lyst_samples = line[9:]
-        print('samples =', (lyst_samples))
-        os.killpg(os.getpgid(proc.pid), signal.SIGTERM)
-
-```
----
-https://www.geeksforgeeks.org/how-to-create-dynamic-autocomplete-search-using-bootstrap-typeahead/
+### Possible issue
+It might be, that the browser cannot load all possible gene trees to display them in the dynamic autocomplete search bar. If this error occurs you can open the treebrowser.py file in Spyder and then make shure that the "IPython console" has its working directory set to the folder "../bio294/treebrowser" 
