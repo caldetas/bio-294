@@ -7,10 +7,6 @@ Created on Fri Nov 19 11:52:37 2021
 """
 
 from flask import Flask, redirect, url_for, render_template, request, session, flash, json
-from datetime import timedelta
-import pandas as pd
-import time
-from datetime import datetime
 import os
 
 #create a class for permanent storage of values
@@ -37,6 +33,7 @@ def home():
 
 
 #function to get the genes present in folder
+##CAUTION: that this command works: make shure that the working directory of spyder is in /treebrowser ! ohterwise will only get empty list!
 def get_all_genenames():
 
     #store genename with genefile
@@ -74,7 +71,7 @@ def get_all_genenames():
 
 #store the genenames and all_fyles in two different variables
 genen, af = get_all_genenames()
-
+#print(genen)
 
 #define gene input square and redirect to its url
 @app.route("/<Gene_name>", methods =["POST", "GET"])
